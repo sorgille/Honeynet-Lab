@@ -1,4 +1,4 @@
-# Honeynet-Lab
+# Honeypot-Lab
 <h1>Description</h1>
 
 Hello everyone. In this lab I created a virtual machine on Microsoft Azure. I turned off the firewall and made the virtual machine super vulnerable to attacks. I connected Azure Sentinel to the live virtual machine acting as a honeypot. From there, I was able to observe the live attacks from all around the world. I used a custom PowerSehll script to look up the attacker's geolation and plot it on the Azure Sentinel map displayed below. 
