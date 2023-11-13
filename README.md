@@ -1,7 +1,7 @@
 # Honeypot-Lab
 <h1>Description</h1>
 
-Hello everyone. In this security project I created a virtual machine on Microsoft Azure. I turned off the firewall and made the virtual machine super vulnerable to attacks. I then connected Azure Sentinel to the live virtual machine acting as a honeypot. From there, I was able to observe the live attacks from all around the world using brute force. I used a custom PowerShell script to look up the attacker's geolocation and plot it on the Azure Sentinel map displayed below
+Hello everyone. In this security project I created a virtual machine on Microsoft Azure. I turned off the firewall and made the virtual machine super vulnerable to attacks. I then connected Microsoft Sentinel to the live virtual machine acting as a honeypot. From there, I was able to observe the live attacks from all around the world. I used a custom PowerShell script to look up the attacker's geolocation and plot it on the AMicrosoft Sentinel map displayed below
 
 <h1>Languages and Utilities Used</h1>
 
