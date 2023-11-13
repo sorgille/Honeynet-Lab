@@ -7,7 +7,7 @@ Hello everyone. In this security project I created a virtual machine on Microsof
 
 - <b>Powershell</b>
 - <b>Microsoft Azure</b>
-- <b>Azure Sentinel</b>
+- <b>Microsoft Sentinel</b>
 
 <h1>Environments Used</h1>
 
